@@ -14,7 +14,7 @@ import sys
 import zipfile
 
 DEFAULT_FOLDER = "/home/ltvsmj/Videos/output"
-DEFAULT_MAX_MB = 210
+DEFAULT_MAX_MB = 150
 DEFAULT_PREFIX = "fuli"
 MB = 1024 * 1024
 
